@@ -35,6 +35,9 @@ Desenvolvedor de software em formação e estudante de **Análise e Desenvolvime
 | JavaScript: Conceitos e Bibliotecas | IFSP | 36h |
 | TechFil 2026: Semana Tecnológica | UniFil | 40h |
 | Jornada Python | Hashtag Treinamentos | 8h |
+| Java: [Fundamentos](https://www.dio.me/certificate/YPYHIUGK), [Sintaxe](https://www.dio.me/certificate/JIFQBHQL), [Estruturas de Controle](https://www.dio.me/certificate/RBP1NCXE) e [Classes e Encapsulamento](https://www.dio.me/certificate/TEEHAMOE) | DIO | |
+| [Desafios de Código: Lógica e Pensamento Computacional](https://www.dio.me/certificate/6MEGNNRH) | DIO | |
+| [Copilotos com IA no Desenvolvimento de Soluções](https://www.dio.me/certificate/UFWSKVAH) | DIO | |
 | [Fundamentos da IA Moderna: ML, LLMs, IA Generativa e Agentes](https://www.dio.me/certificate/X45D8SQL) | DIO | |
 | [Introdução à Engenharia de Prompts](https://www.dio.me/certificate/9BV5INYE) | DIO | |
 
