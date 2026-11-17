@@ -22,6 +22,13 @@ Desenvolvedor de software em formação e estudante de **Análise e Desenvolvime
 | Básico | Python, JavaScript |
 | Ferramentas | SQL, sistemas ERP, Excel, Google Sheets, Power BI |
 
+## 🚀 Projetos
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [gestao-estoque](https://github.com/hectorkaul/gestao-estoque) | Sistema de estoque e vendas para loja pequena: vendas com baixa automática no estoque, relatórios e exportação CSV | Java 21, SQLite/JDBC, JUnit 5 |
+| [pipeline-vendas](https://github.com/hectorkaul/pipeline-vendas) | ETL que junta as vendas de 3 filiais, limpa os dados, monta um modelo estrela e gera análises em SQL | Python, SQL, BrasilAPI |
+
 ## 📚 Estudando agora
 
 - ☕ **Santander Bootcamp 2026: AI Java Back-end** (DIO)
