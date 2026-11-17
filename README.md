@@ -14,16 +14,18 @@ Desenvolvedor de software em formação e estudante de **Análise e Desenvolvime
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 | Nível | Tecnologias |
 |---|---|
 | Intermediário | Java (Programação Orientada a Objetos) |
 | Básico | Python, JavaScript |
-| Ferramentas | SQL, sistemas ERP, Excel, Google Sheets |
+| Ferramentas | SQL, sistemas ERP, Excel, Google Sheets, Power BI |
 
 ## 📚 Estudando agora
 
 - ☕ **Santander Bootcamp 2026: AI Java Back-end** (DIO)
+- 📊 **Formação Power BI Analyst** (DIO, 60h)
 - 🤖 IA aplicada ao desenvolvimento: engenharia de prompts, LLMs e agentes
 - 🎓 Análise e Desenvolvimento de Sistemas (UniFil)
 
@@ -36,6 +38,7 @@ Desenvolvedor de software em formação e estudante de **Análise e Desenvolvime
 | TechFil 2026: Semana Tecnológica | UniFil | 40h |
 | Jornada Python | Hashtag Treinamentos | 8h |
 | Java: [Fundamentos](https://www.dio.me/certificate/YPYHIUGK), [Sintaxe](https://www.dio.me/certificate/JIFQBHQL), [Estruturas de Controle](https://www.dio.me/certificate/RBP1NCXE), [Classes e Encapsulamento](https://www.dio.me/certificate/TEEHAMOE), [Herança e Polimorfismo](https://www.dio.me/certificate/DLM6GOXD) e [Interfaces e Lambda](https://www.dio.me/certificate/I7NKZNOY) | DIO | |
+| [Criando Dashboards Interativos com Power BI](https://www.dio.me/certificate/LECPIJVU) | DIO | |
 | [Desafios de Código: Lógica e Pensamento Computacional](https://www.dio.me/certificate/6MEGNNRH) | DIO | |
 | [Copilotos com IA no Desenvolvimento de Soluções](https://www.dio.me/certificate/UFWSKVAH) | DIO | |
 | [Fundamentos da IA Moderna: ML, LLMs, IA Generativa e Agentes](https://www.dio.me/certificate/X45D8SQL) | DIO | |
